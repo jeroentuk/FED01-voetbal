@@ -21,7 +21,7 @@ babel.rc file moet aanwezig zijn in de map.
 
 run in de map: npm install --save (hierdoor komt de node_modules map in de folder te staan)
 
-Tijdens developen en compilen moet de watcher aan staan: npm run webpack:watch:js
+Tijdens developen en compilen moet de watcher aan staan: npm run webpack : watch : js (aan elkaar)
 
 Bij vragen kan je altijd mailen.
 ###
